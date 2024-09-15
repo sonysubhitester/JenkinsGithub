@@ -3,5 +3,6 @@ public class firstjenkins{
     System.out.println("hello one");
     System.out.println("hello two");    
     System.out.println("hello three");
+    System.out.println("hello four");
   }
 }
